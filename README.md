@@ -1,4 +1,4 @@
-# 🏨 Hotel Chain Revenue and Occupancy Analysis — AtliQ Grands
+# 🏨 Hotel Chain Analysis — AtliQ Grands
 
 ## 📊 Overview
 
@@ -64,3 +64,4 @@ This project provided data-driven insights to hotel stakeholders for improving:
 - Property-specific performance optimization
 - Guest experience based on review trends
 
+🔗 [**Live Power BI Dashboard**](https://app.powerbi.com/view?r=eyJrIjoiYjQxZmI3MzEtZDY3OS00NTkyLTk0MjUtZTlhNjgwMjYyYWQxIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=0c8249a85841d8a387ac)
